@@ -11,6 +11,7 @@ Interface to simplify PR management on GitHub.
 1. If you choose `USE_MODE=label`, fill `GITHUB_LABELS_*` with you own labels for the differents categories 
 1. If you choose `USE_MODE=filter`, fill `GITHUB_FILTERS` and `GITHUB_NOTIFICATIONS_*` with you own filters
 
+
 ### Demo find by labels
 
 ![PR list labels](github-pr-review-labels.png)
